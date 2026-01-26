@@ -1,4 +1,3 @@
-
 # BesuHyperledger: Elevating enterprise-grade Blockchain-as-a-Service with secure, decentralized Hyperledger Fabric integration and real-time event-driven processing at the technological nexus Implementation
 > Advanced rust solution leveraging modern architecture patterns and cutting-edge technology.
 
